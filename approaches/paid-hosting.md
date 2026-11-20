@@ -18,6 +18,7 @@ Variants & Options:
 ## Platforms
 * N/A: Will require an individual hosting platform / website with possibility to pay and configure the system
 * [RapidAPI](https://rapidapi.com/) (Payment of self-hosted APIs)
+* [Zenith](https://zenith.hosting/developers) (Managed hosting and marketplace for open-source apps; 30% of eligible base subscription revenue to the developer, quarterly statements and payouts with a US$50 threshold; publishing requires a public GitHub repository)
 
 ## Evaluation
 
